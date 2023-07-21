@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683601722070",
+    "project_id": "try--map",
+    "storage_bucket": "try--map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683601722070:android:85b3047c8af7bb5acbe777",
+        "android_client_info": {
+          "package_name": "com.example.flutter_google_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683601722070-itsdbe4ne6e4tueff32tle9cr92670he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdpxvqggpIwA-LpE5w3-n_LGkltrWgELM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683601722070-itsdbe4ne6e4tueff32tle9cr92670he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
